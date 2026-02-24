@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab1</string>
+    <string name="news">News</string>
+    <string name="news_image">news image</string>
+    <string name="this_is_the_news_title">This is the news title</string>
+    <string name="this_is_the_news_description">This is the news description...</string>
 </resources>
