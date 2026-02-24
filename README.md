@@ -18,8 +18,11 @@ Each item shows an **icon**, **title**, and **description**, with a clean **Card
 
 ## Screenshots
 
-## Tech Stack
+[Screenshot Folder] (https://github.com/BobbIbrahim/news-app/upload/main/screenshots)
 
+---
+
+## Tech Stack
 
 - **Language:** Kotlin  
 - **IDE:** Android Studio  
@@ -32,6 +35,6 @@ Each item shows an **icon**, **title**, and **description**, with a clean **Card
 
 1. Clone the repo:
    ```bash
-   git clone <>
+   git clone <https://github.com/BobbIbrahim/news-app.git>
 2. Open the project in Android Studio
 3. Run the app.
